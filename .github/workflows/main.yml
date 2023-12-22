@@ -31,4 +31,5 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: farah/docker_tp4:1.0.${{github.run_number}}
+          tags: etudiantmaghraouifarah325
+/devop-docker:1.0.${{github.run_number}}
