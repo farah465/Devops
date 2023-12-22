@@ -1,4 +1,4 @@
-name: Update the container of application Armstrong
+name: Update the container application devops
 
 on:
   push:
